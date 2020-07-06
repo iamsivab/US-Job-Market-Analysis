@@ -9,8 +9,8 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/US-Job-Market-Analysis.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/US-Job-Market-Analysis.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/US-Job-Market-Analysis.svg?logo=python&style=social)](https://github.com/iamsivab)
 
 #### Few popular hashtags - 
-### `#R` `#MachineLearning` `#NLP`
-### `#patternlearning` `#BagofWords` `#textanalytics`
+### `#JobMarketAnalysis` `#JobSearch` `#Classification`
+### `#dataanalysis` `#UnitedStates` `#datavisualization`
 
 ### Motivation
 Job analysis (also known as work analysis) is a family of procedures to identify the content of a job in terms of activities involved and attributes or job requirements needed to perform the activities. Job analysis provides information of organizations which helps to determine which employees are best fit for specific jobs. Through job analysis, the analyst needs to understand what the important tasks of the job are, how they are carried out, and the necessary human qualities needed to complete the job successfully.
@@ -21,7 +21,7 @@ The process of job analysis involves the analyst describing the duties of the in
 
 #### Data Preparation for Analysis
 
-[![Made with R](https://forthebadge.com/images/badges/made-with-r.svg)](https://github.com/iamsivab/US-Job-Market-Analysis) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://www.linkedin.com/in/iamsivab/)
+[![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://www.linkedin.com/in/iamsivab/)
 
 ```R
 # Downloading data
@@ -48,6 +48,7 @@ ur.area<-fread("https://download.bls.gov/pub/time.series/la/la.area",
 ur.dt<-merge(ur.data,ur.list,by="series_id",all.y=T)
 ```
 
+A job search currently gives in download.bls.gov results and provides lots of interesting information that we would like to capture.
 #### Explanation
 Job analysis aims to answer questions such as:
 
@@ -106,20 +107,13 @@ library(extrafont)
 
 ### Useful Links
 
-1. [Why Term Frequency is better than TF-IDF for text classification](https://www.quora.com/Why-does-TF-term-frequency-sometimes-give-better-F-scores-than-TF-IDF-does-for-text-classification)
-2. [Naïve Bayes Classification for 20 News Group Dataset]( https://github.com/Loc-Tran/NaiveBayes20NewsGroup)
-3. [Analyzing word and document frequency: tf-idf]( https://www.tidytextmining.com/tfidf.html  )
-4. [Natural Language Processing](https://krakensystems.co/blog/2018/nlp-syntax-processing)
-5. [K Nearest Neighbor in R]( https://www.edureka.co/blog/knn-algorithm-in-r/)
-6. [MLR Package]( https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r-with-mlr-package/)
- 
-
+1. [Python vs R: How to Analyse 4000 Job Advertisements Using Shiny & Machine Learning](https://towardsdatascience.com/python-vs-r-what-i-learned-from-4-000-job-advertisements-ab41661b7f28)
  
 ### Related Work
 
 [![Sentiment Analysis](https://img.shields.io/static/v1.svg?label=Text&message=Mining&color=lightgray&logo=linkedin&style=social&colorA=critical)](https://www.linkedin.com/in/iamsivab/) [![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/US-Job-Market-Analysis.svg?logo=php&style=social)](https://github.com/iamsivab/)
 
-[Text Mining Analyzer](https://github.com/iamsivab/US-Job-Market-Analysis) - A Detailed Report on the Analysis
+[Text Mining Analyzer](https://github.com/iamsivab/Text-Mining-in-R) - A Detailed Report on the Analysis
 
 
 ### Contributing
