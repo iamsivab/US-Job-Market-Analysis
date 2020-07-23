@@ -1,7 +1,8 @@
 # US Job Analysis in R
 [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FUS-Job-Market-Analysis)
+[![HitCount](http://hits.dwyl.com/iamsivab/US-Job-Market-Analysis.svg)](http://hits.dwyl.com/iamsivab/US-Job-Market-Analysis)
+
 ## US Job Analysis in R
 [![Generic badge](https://img.shields.io/badge/Text-Mining-teal.svg?style=for-the-badge)](https://github.com/iamsivab/US-Job-Market-Analysis) 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsivab/) [![Generic badge](https://img.shields.io/badge/R-Language-blue.svg?style=for-the-badge)](https://github.com/iamsivab/US-Job-Market-Analysis/) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
